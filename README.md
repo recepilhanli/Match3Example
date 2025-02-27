@@ -1,9 +1,9 @@
 # Match-3 Game Unity Example
-
 A match-3 style game developed with Unity, featuring custom physics system and optimized grid-based mechanics.
 
-## Technical Features
+Gameplay: [YouTube Video](https://youtu.be/Qv45kBFJUTM)
 
+## Technical Features
 ### Custom Physics System
 - Implemented a simplified physics system without Unity's built-in physics
 - Optimized for grid-based movement primarily on the Y-axis
